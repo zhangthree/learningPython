@@ -4,4 +4,4 @@ from safeLog import safeLog
 
 
 p = safeLog()
-p.write('test')
+p.logInfo('first error')
